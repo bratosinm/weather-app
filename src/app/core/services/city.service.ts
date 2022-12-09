@@ -11,5 +11,4 @@ export class CityService {
   getCities(): Array<City> {
     return CITIES;
   }
-
 }
